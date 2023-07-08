@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/arman-ala">
+  <img src="https://api.daily.dev/devcards/93029f66dc9a4d78b9e3924de82a0afe.png?r=wr0" width="400" alt="Arman Ala's Dev Card"/>
+</a>
